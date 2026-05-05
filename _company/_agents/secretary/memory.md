@@ -17,3 +17,4 @@ _Secretary 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-05] 최근 24시간 동안 진행된 모든 작업(Writer, Researcher, Designer의 산출물 포함)의 진행 상황을 요약하고, 다음 단계에 필요한 미비 정보나 병목 지점을 보고하시오. → 산출물 sessions/2026-05-05T14-50/secretary.md
 - [2026-05-05] Writer, Researcher, Designer의 최근 산출물(sessions/2026-05-05T13-21/*, sessions/2026-05-05T14-35/* 등)의 진행 상황을 요약하고, 현재 실행 목표 달성에 필요한 미비 정보나 병목 지점을 보고하라. → 산출물 sessions/2026-05-05T15-06/secretary.md
 - [2026-05-05] 현재 Ollama/LM Studio 서버의 실행 상태와 메모리 사용량을 즉시 확인하고, 모델 로드 실패 또는 Context Length 초과 오류가 발생했는지 상세 로그를 보고하라. → 산출물 sessions/2026-05-05T15-08/secretary.md
+- [2026-05-05] 현재 시스템의 모델 로드 상태, 메모리 사용량, 그리고 최근 발생한 LLM 호출 실패 로그(모델 변경 관련)를 요약하여 보고하라. → 산출물 sessions/2026-05-05T15-10/secretary.md
