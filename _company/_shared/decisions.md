@@ -427,3 +427,9 @@ _세션: 2026-05-07T15-41_
 - DesignSystemManager 클래스에 Contextual Check 및 Adaptive Contrast Check 로직을 최종 반영한다.
 - AI 자동화 단계별(Input→Process→Output) 시각적 명료성을 극대화하는 디자인 가이드라인을 확정한다.
 _세션: 2026-05-07T15-58_
+
+## [2026-05-07] 네이버 블로그 자동화는 일반적으로 해당 플랫폼에 대한 로그인 인증(OAuth 등)이 필요합니다. 완전한 자동
+- 초기 자동화는 Playwright를 이용한 웹 자동화를 중심으로 설계한다
+- 안정성을 위해 초기 단계에서는 웹 자동화를 우선 적용한다
+- 데이터 파이프라인을 AuthManager, DataExtractor 등으로 모듈화하여 구축한다
+_세션: 2026-05-07T16-05_
