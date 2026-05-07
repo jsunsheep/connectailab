@@ -14,3 +14,5 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-06] 확정된 디자인 가이드라인(컨셉 1 기반)을 Playwright 스크립트에 통합하고, 다음 단계로 진행할 릴스 기획 3개 중 하나에 대한 시각 자료 초안 제작을 시작할 수 있도록 API/스크립트 설계를 완료하시오. → 산출물 sessions/2026-05-06T10-14/developer.md
 - [2026-05-06] 확정된 디자인 시스템(Deep Nebula Blue/Solar Gold) 가이드라인을 Playwright 스크립트에 즉시 통합하고, 오류 핸들링 로직을 포함하여 자동화 코드 실행을 시작하라. → 산출물 sessions/2026-05-06T10-29/developer.md
 - [2026-05-07] Writer와 Designer가 제시한 새로운 콘텐츠 흐름과 디자인 가이드라인을 통합하여, 맛집/여행 주제에 특화된 자동화 스크립트(Playwright)의 데이터 파이프라인 및 UI/UX 설계안을 업데이트해줘. → 산출물 sessions/2026-05-07T12-38/developer.md
+- [2026-05-07] 맛집/여행 콘텐츠에 특화된 'The Hidden Path Blueprint' 프레임워크를 기반으로, 네이버 블로그 자동화 시 필요한 데이터 파이프라인(입력 → 처리 → 출력) 및 UI/UX 설계안을 작성하고, 디자인 시스템('Deep Nebula Blue', 'Solar Gold') 적용 방안을 포함하여 최종 스크립트 설계안을 완성하라. → 산출물 sessions/2026-05-07T12-45/developer.md
+- [2026-05-07] writer와 designer가 제시한 맛집/여행 주제에 특화된 새로운 디자인 가이드라인과 콘텐츠 흐름을 Playwright 자동화 스크립트의 데이터 파이프라인 및 UI/UX 설계안에 즉시 통합할 수 있도록 코드 로직 업데이트 계획을 수립하라. → 산출물 sessions/2026-05-07T12-45/developer.md
