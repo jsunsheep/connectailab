@@ -433,3 +433,8 @@ _세션: 2026-05-07T15-58_
 - 안정성을 위해 초기 단계에서는 웹 자동화를 우선 적용한다
 - 데이터 파이프라인을 AuthManager, DataExtractor 등으로 모듈화하여 구축한다
 _세션: 2026-05-07T16-05_
+
+## [2026-05-07] playwright로 만들어봐
+- AuthManager에 Naver OAuth 초기 Mockup 인증 코드를 추가한다
+- DataExtractor는 Playwright 기반으로 Selector 확정을 시작한다
+_세션: 2026-05-07T16-07_
