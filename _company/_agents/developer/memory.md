@@ -28,3 +28,5 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-07] 확정된 프레임워크(`SolarGold_Content_Automation_V1`)를 실제 콘텐츠 제작 환경에 적용하는 자동화 스크립트의 최종 테스트 및 안정화 작업을 수행하고, 모든 오류 처리 로직을 통합하여 시스템의 End-to-End 안정성을 확보하라. → 산출물 sessions/2026-05-07T15-26/developer.md
 - [2026-05-07] 네이버 API 또는 OAuth 인증을 통한 블로그 데이터 접근 가능성 및 구현 방법에 대한 기술적 타당성을 조사하고, 필요한 자동화 스크립트의 초기 구조를 설계하라 → 자격증명 부족으로 차단됨
 - [2026-05-07] AuthManager 클래스에 Naver OAuth 흐름을 위한 초기 Mockup 인증 코드를 추가하고, DataExtractor에 네이버 블로그의 핵심 HTML 구조를 분석하여 Selector를 확정하는 작업을 즉시 시작하라. → 산출물 sessions/2026-05-07T16-07/developer.md
+- [2026-05-08] 확정된 Playwright 자동화 스크립트(`SolarGold_Content_Automation_V1`)에 DesignSystemManager의 Contextual Check 및 Adaptive Contrast Check 로직을 통합하고, 시각적 일관성을 강제 적용하는 End-to-End 테스트 모듈을 즉시 구현하라. → 산출물 sessions/2026-05-08T13-22/developer.md
+- [2026-05-08] 구현된 VisualConsistencyValidator 모듈이 Playwright 테스트 환경에서 최종 오류 처리 로직을 통합하고 안정화하는 작업을 즉시 실행하라. → 산출물 sessions/2026-05-08T13-37/developer.md
