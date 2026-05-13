@@ -24,5 +24,6 @@
   },
   "business": {
     "activatedAt": "2026-05-12T11:08:00.995Z"
-  }
+  },
+  "_migrated_v3": true
 }
